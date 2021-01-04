@@ -1,0 +1,15 @@
+/Users/jessicasadler/git/learn-qa/learn-csharp/bin/Debug/net5.0/learn-csharp.deps.json
+/Users/jessicasadler/git/learn-qa/learn-csharp/bin/Debug/net5.0/learn-csharp.runtimeconfig.json
+/Users/jessicasadler/git/learn-qa/learn-csharp/bin/Debug/net5.0/learn-csharp.runtimeconfig.dev.json
+/Users/jessicasadler/git/learn-qa/learn-csharp/bin/Debug/net5.0/learn-csharp.dll
+/Users/jessicasadler/git/learn-qa/learn-csharp/bin/Debug/net5.0/ref/learn-csharp.dll
+/Users/jessicasadler/git/learn-qa/learn-csharp/bin/Debug/net5.0/learn-csharp.pdb
+/Users/jessicasadler/git/learn-qa/learn-csharp/obj/Debug/net5.0/learn-csharp.csprojAssemblyReference.cache
+/Users/jessicasadler/git/learn-qa/learn-csharp/obj/Debug/net5.0/learn-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessicasadler/git/learn-qa/learn-csharp/obj/Debug/net5.0/learn-csharp.AssemblyInfoInputs.cache
+/Users/jessicasadler/git/learn-qa/learn-csharp/obj/Debug/net5.0/learn-csharp.AssemblyInfo.cs
+/Users/jessicasadler/git/learn-qa/learn-csharp/obj/Debug/net5.0/learn-csharp.csproj.CoreCompileInputs.cache
+/Users/jessicasadler/git/learn-qa/learn-csharp/obj/Debug/net5.0/learn-csharp.dll
+/Users/jessicasadler/git/learn-qa/learn-csharp/obj/Debug/net5.0/ref/learn-csharp.dll
+/Users/jessicasadler/git/learn-qa/learn-csharp/obj/Debug/net5.0/learn-csharp.pdb
+/Users/jessicasadler/git/learn-qa/learn-csharp/obj/Debug/net5.0/learn-csharp.genruntimeconfig.cache

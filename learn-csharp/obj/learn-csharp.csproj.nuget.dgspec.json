@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jessicasadler/git/learn-qa/learn-csharp/learn-csharp.csproj": {}
+    "/Users/harrysadler/git/LEARN/learn-qa/learn-csharp/learn-csharp.csproj": {}
   },
   "projects": {
-    "/Users/jessicasadler/git/learn-qa/learn-csharp/learn-csharp.csproj": {
+    "/Users/harrysadler/git/LEARN/learn-qa/learn-csharp/learn-csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jessicasadler/git/learn-qa/learn-csharp/learn-csharp.csproj",
+        "projectUniqueName": "/Users/harrysadler/git/LEARN/learn-qa/learn-csharp/learn-csharp.csproj",
         "projectName": "learn-csharp",
-        "projectPath": "/Users/jessicasadler/git/learn-qa/learn-csharp/learn-csharp.csproj",
-        "packagesPath": "/Users/jessicasadler/.nuget/packages/",
-        "outputPath": "/Users/jessicasadler/git/learn-qa/learn-csharp/obj/",
+        "projectPath": "/Users/harrysadler/git/LEARN/learn-qa/learn-csharp/learn-csharp.csproj",
+        "packagesPath": "/Users/harrysadler/.nuget/packages/",
+        "outputPath": "/Users/harrysadler/git/LEARN/learn-qa/learn-csharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jessicasadler/.nuget/NuGet/NuGet.Config"
+          "/Users/harrysadler/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

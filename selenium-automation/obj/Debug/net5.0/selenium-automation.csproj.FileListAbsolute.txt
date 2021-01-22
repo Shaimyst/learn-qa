@@ -16,3 +16,11 @@
 /Users/jessicasadler/git/learn-qa/selenium-automation/bin/Debug/net5.0/Newtonsoft.Json.dll
 /Users/jessicasadler/git/learn-qa/selenium-automation/bin/Debug/net5.0/WebDriver.dll
 /Users/jessicasadler/git/learn-qa/selenium-automation/obj/Debug/net5.0/selenium-automation.csproj.CopyComplete
+/Users/jessicasadler/git/learn-qa/selenium-automation/bin/Debug/net5.0/NUnit3.TestAdapter.dll
+/Users/jessicasadler/git/learn-qa/selenium-automation/bin/Debug/net5.0/NUnit3.TestAdapter.pdb
+/Users/jessicasadler/git/learn-qa/selenium-automation/bin/Debug/net5.0/nunit.engine.dll
+/Users/jessicasadler/git/learn-qa/selenium-automation/bin/Debug/net5.0/nunit.engine.api.dll
+/Users/jessicasadler/git/learn-qa/selenium-automation/bin/Debug/net5.0/nunit.engine.core.dll
+/Users/jessicasadler/git/learn-qa/selenium-automation/bin/Debug/net5.0/Microsoft.DotNet.InternalAbstractions.dll
+/Users/jessicasadler/git/learn-qa/selenium-automation/bin/Debug/net5.0/nunit.framework.dll
+/Users/jessicasadler/git/learn-qa/selenium-automation/bin/Debug/net5.0/System.Xml.XPath.XmlDocument.dll

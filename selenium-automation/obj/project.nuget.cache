@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QfLYI4kMCURkNz3Vro7djrHQaofiimGPhIEwf4BkSxTNoQivbQcPXcAioOBnbZzmqlUVNkfuyyhhmbxjYDXTIQ==",
+  "dgSpecHash": "ir3yAKY8WyFHRy6BY5qsPmFyCVjiUrVCWS7dxtftySGEKVyohgX8ore1tQhPWwKVIQfu2+1t1T3MlV2Wp59ROA==",
   "success": true,
   "projectFilePath": "/Users/harrysadler/git/LEARN/learn-qa/selenium-automation/selenium-automation.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "/Users/harrysadler/.nuget/packages/nunit.consolerunner/3.11.1/nunit.consolerunner.3.11.1.nupkg.sha512",
     "/Users/harrysadler/.nuget/packages/nunit3testadapter/3.17.0/nunit3testadapter.3.17.0.nupkg.sha512",
     "/Users/harrysadler/.nuget/packages/runtime.native.system/4.3.0/runtime.native.system.4.3.0.nupkg.sha512",
+    "/Users/harrysadler/.nuget/packages/selenium.support/3.141.0/selenium.support.3.141.0.nupkg.sha512",
     "/Users/harrysadler/.nuget/packages/selenium.webdriver/3.141.0/selenium.webdriver.3.141.0.nupkg.sha512",
     "/Users/harrysadler/.nuget/packages/selenium.webdriver.chromedriver/87.0.4280.8800/selenium.webdriver.chromedriver.87.0.4280.8800.nupkg.sha512",
     "/Users/harrysadler/.nuget/packages/system.appcontext/4.1.0/system.appcontext.4.1.0.nupkg.sha512",

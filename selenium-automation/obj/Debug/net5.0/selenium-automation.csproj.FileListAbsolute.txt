@@ -24,3 +24,4 @@
 /Users/harrysadler/git/LEARN/learn-qa/selenium-automation/obj/Debug/net5.0/ref/selenium-automation.dll
 /Users/harrysadler/git/LEARN/learn-qa/selenium-automation/obj/Debug/net5.0/selenium-automation.pdb
 /Users/harrysadler/git/LEARN/learn-qa/selenium-automation/obj/Debug/net5.0/selenium-automation.genruntimeconfig.cache
+/Users/harrysadler/git/LEARN/learn-qa/selenium-automation/bin/Debug/net5.0/WebDriver.Support.dll

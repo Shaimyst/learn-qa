@@ -1,7 +1,9 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Support.UI;
 using NUnit.Framework;
 using System;
+using System.Threading;
 
 namespace selenium_automation
 {
@@ -16,7 +18,8 @@ namespace selenium_automation
         {
             Program p = new Program();
             //p.RunTest1(p);
-            p.RunTest2(p);
+            //p.RunTest2(p);
+            p.RunTest3(p);
         }
 
         // TEST 1
@@ -108,5 +111,75 @@ namespace selenium_automation
             //Close the browser
             driver.Quit();
         }
+
+        // TEST 3
+        public void RunTest3(Program p) {
+            p.Initialize3();
+            p.ExecuteTest3();
+            p.CloseTest3();
+        }
+
+        [SetUp]
+        public void Initialize3()
+        {
+            // Go to FaceBook Page
+            driver.Navigate().GoToUrl("https://www.facebook.com");
+        }
+        [Test]
+        public void ExecuteTest3()
+        {
+            IWebElement acceptCookiesButton = driver.FindElement(By.Id("u_0_h"));
+            acceptCookiesButton.Click();
+            
+            IWebElement signupButton = driver.FindElement(By.Id("u_0_2"));
+            signupButton.Click();
+
+            Thread.Sleep(2000);
+            
+            IWebElement firstName = driver.FindElement(By.Id('u_y_b'));
+            firstName.SendKeys("John");
+
+            IWebElement lastName = driver.FindElement(By.Id("u_y_d"));
+            lastName.SendKeys("Wick");
+
+            IWebElement email = driver.FindElement(By.Id("u_y_g"));
+            email.SendKeys("asdlfkj@gmail.com");
+
+            IWebElement reEnterEmail = driver.FindElement(By.Id("u_y_j"));
+            email.SendKeys("asdlfkj@gmail.com");
+
+            IWebElement password = driver.FindElement(By.Id("password_step_input"));
+            email.SendKeys("myawesomepassword");
+
+            IWebElement month = driver.FindElement(By.Id("month"));
+            var selectElementMonth = new SelectElement(month);
+            selectElementMonth.SelectByValue("12");
+
+            IWebElement day = driver.FindElement(By.Id("day"));
+            var selectElementDay = new SelectElement(day);
+            selectElementDay.SelectByValue("7");
+
+            IWebElement year = driver.FindElement(By.Id("year"));
+            var selectElementYear = new SelectElement(year);
+            selectElementYear.SelectByValue("2005");
+
+            IWebElement genderButton = driver.FindElement(By.Id("u_y_3"));
+            genderButton.Click();
+
+            IWebElement signUpButton2 = driver.FindElement(By.Id("u_y_s"));
+            signUpButton2.Click();
+
+            IWebElement errorMessage = driver.FindElement(By.XPath(""));
+        }
+        
+        
+        [TearDown]
+        public void CloseTest3()
+        {
+            //Close the browser
+            driver.Quit();
+        }
+
+
     }
 }
